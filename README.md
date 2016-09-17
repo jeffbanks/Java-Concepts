@@ -1,2 +1,2 @@
-# howdy
-Texas Howdy Repository
+# Java Concepts
+Repository of learning examples Java 8 and beyond
